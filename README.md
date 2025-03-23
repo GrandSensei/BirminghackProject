@@ -2,7 +2,7 @@
 # Inducing Dreams that Bypass Natural Perceptual Limits
 
 ## Overview
-This repository contains a speculative research paper exploring the potential of artificially inducing dream-like experiences that transcend natural perceptual limits. The paper discusses current technological advancements in AI, brain-computer interfaces (BCIs), and neural imaging, proposing a future where engineered neural patterns could allow humans to experience higher-dimensional constructs (e.g., 4D objects) and multi-perspective visuals (e.g., Necker cubes) in dreams.
+This repository contains a speculative research paper exploring the potential of artificially inducing dream-like experiences that transcend natural perceptual limits. The paper discusses current technological advancements in AI, brain-computer interfaces (BCIs), and neural imaging, proposing a future where engineered neural patterns could allow humans to experience higher-dimensional constructs (e.g 4D objects) and multi-perspective visuals (e.g Necker cubes) in dreams.
 
 ---
 
@@ -12,16 +12,16 @@ This repository contains a speculative research paper exploring the potential of
    - Proposes the simulation of 4D objects and multi-perspective visuals in dreams.  
 
 2. **Historical Context**  
-   - Discusses how external influences (e.g., black-and-white TV) have historically shaped dream content.  
+   - Discusses how external influences (e.g black-and-white TV) have historically shaped dream content.  
    - Highlights the shift from indirect dream control to precise technological interventions.  
 
 3. **Advancements in Brain Activity-Based Image Generation**  
    - Reviews models like Deep Perceptual Similarity Metrics (DeePSiM) and research by Alan Cowen et al. on reconstructing images from brain activity.  
-   - Suggests extending these models to reconstruct motion and non-perceivable objects (e.g., 4D topologies).  
+   - Suggests extending these models to reconstruct motion and non-perceivable objects (e.g 4D topologies).  
 
 4. **Redefining Brain Activity as Brain Topology**  
    - Proposes viewing brain activity as a dynamic, evolving "brain topology" rather than static snapshots.  
-   - Discusses historical and modern methods of altering brain function (e.g., deep brain stimulation).  
+   - Discusses historical and modern methods of altering brain function (e.g deep brain stimulation).  
 
 5. **Potential Technologies**  
    - **Capturing Brain Topology**: EEG, fMRI, MEG, SPECT.  
@@ -54,18 +54,8 @@ This repository contains a speculative research paper exploring the potential of
 ## How to Use This Repository
 - **Paper**: The full paper is available in the `Inducing Dreams that Bypass Natural Perceptual Limits.pdf` file.  
 - **Presentation**: A Canva presentation outline is provided in the `README.md` for creating a visual summary of the paper.  
-- **Future Work**: Contributions are welcome! Feel free to expand on the speculative ideas or propose new applications.  
-
----
-
-## License
-This work is licensed under [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).  
-
----
-
-## Contact
-For questions or collaborations, please reach out to [Your Email/Contact Info].  
-
+- **Future Work**: Contributions are welcome! Feel free to expand on the speculative ideas or propose new applications.
+  
 ---
 
 **Let’s redefine the boundaries of human perception and consciousness!** 🧠✨
