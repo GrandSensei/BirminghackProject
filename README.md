@@ -52,7 +52,7 @@ This repository contains a speculative research paper exploring the potential of
 ---
 
  **Paper**: The full paper is available in the `Inducing Dreams that Bypass Natural Perceptual Limits.pdf` file.  
-
+ **PsuedoCode**: There is a funny piece of hypothetical code in the 'PseudoCode.py', just imagine a really advanced processor and an insane man to make a python library for this
 ---
 
 **Let’s redefine the boundaries of human perception and consciousness!** 🧠✨
