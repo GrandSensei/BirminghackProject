@@ -51,11 +51,8 @@ This repository contains a speculative research paper exploring the potential of
 
 ---
 
-## How to Use This Repository
-- **Paper**: The full paper is available in the `Inducing Dreams that Bypass Natural Perceptual Limits.pdf` file.  
-- **Presentation**: A Canva presentation outline is provided in the `README.md` for creating a visual summary of the paper.  
-- **Future Work**: Contributions are welcome! Feel free to expand on the speculative ideas or propose new applications.
-  
+ **Paper**: The full paper is available in the `Inducing Dreams that Bypass Natural Perceptual Limits.pdf` file.  
+
 ---
 
 **Let’s redefine the boundaries of human perception and consciousness!** 🧠✨
